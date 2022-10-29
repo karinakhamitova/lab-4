@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Задание 4_Хамитова")]
+[assembly: AssemblyTitle("Задание 4_2_Хамитова")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Задание 4_Хамитова")]
+[assembly: AssemblyProduct("Задание 4_2_Хамитова")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("50e58027-816d-4bd5-8140-590b35e39476")]
+[assembly: Guid("7a09e55c-fb70-4eda-b83f-24d93a912381")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

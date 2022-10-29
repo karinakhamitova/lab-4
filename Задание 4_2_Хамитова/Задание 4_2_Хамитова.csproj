@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50E58027-816D-4BD5-8140-590B35E39476}</ProjectGuid>
+    <ProjectGuid>{7A09E55C-FB70-4EDA-B83F-24D93A912381}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Задание_4_Хамитова</RootNamespace>
-    <AssemblyName>Задание 4_Хамитова</AssemblyName>
+    <RootNamespace>Задание_4_2_Хамитова</RootNamespace>
+    <AssemblyName>Задание 4_2_Хамитова</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
